@@ -4,20 +4,20 @@
 -Created using the Java language
 
 #Class Employee
-  -variables:
+  Variables:
   
     firstName: String
     lastName: String
     employeeNumber: int
   
-  -constructor:
+  Constructor:
   
     Employee(1st,2nd,3rd)
       1st arg - Employee's first name
       2nd arg - Employee's second name
       3rd arg - Employee's identification number
   
-  -methods:
+  Methods:
   
     getEmployeeName(): String
       Returns a string of the employee's first name + the last name
