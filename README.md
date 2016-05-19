@@ -5,17 +5,20 @@
 
 #Class Employee
   -variables:
+  
     firstName: String
     lastName: String
     employeeNumber: int
   
   -constructor:
+  
     Employee(1st,2nd,3rd)
       1st arg - Employee's first name
       2nd arg - Employee's second name
       3rd arg - Employee's identification number
   
   -methods:
+  
     getEmployeeName(): String
       Returns a string of the employee's first name + the last name
       
